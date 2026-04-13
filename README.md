@@ -249,7 +249,6 @@ Planned version upgrades:
 * Cross-validation
 * Hyperparameter tuning
 * Decision Tree / Random Forest comparison
-* Full sklearn Pipeline
-* Better feature interactions
+
 
 
